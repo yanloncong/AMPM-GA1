@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st1{display:none;fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st5{font-family:'HelloBigSky';}
+	.st6{font-size:24.0945px;}
+	.st7{font-size:18.9314px;}
+</style>
+<rect x="505.14" y="136.46" class="st0" width="273.66" height="393.71"/>
+<path class="st1" d="M331.65,195.94"/>
+<polygon class="st0" points="768.41,145.5 795.29,145.5 768.63,117.63 "/>
+<polygon class="st0" points="513.91,145.83 513.91,117.6 488.4,145.83 "/>
+<polygon class="st0" points="768.89,520.49 769.07,546.94 795.29,520.72 "/>
+<polygon class="st0" points="513.91,519.04 488.54,519.04 513.76,546.87 "/>
+<line class="st2" x1="564.2" y1="179.81" x2="724.41" y2="180.4"/>
+<rect x="628.04" y="242.83" class="st3" width="22.8" height="160.53"/>
+<polygon class="st3" points="662.54,407.46 650.85,403.36 650.85,374.65 670.14,395.16 "/>
+<polygon class="st3" points="616.27,407.65 627.97,403.55 627.97,374.84 608.67,395.34 "/>
+<polygon class="st3" points="636.79,408.93 629.23,408.93 631.75,403.44 634.38,403.44 "/>
+<polygon class="st3" points="647.98,408.93 640.41,408.93 642.93,403.44 645.57,403.44 "/>
+<polygon class="st3" points="650.85,242.83 628.04,242.83 633.67,229.32 644.52,229.32 "/>
+<polygon class="st3" points="638.99,208.12 634,229.21 643.98,229.21 "/>
+<line class="st4" x1="639.04" y1="229.43" x2="639.15" y2="211.19"/>
+<line class="st4" x1="633.67" y1="229.32" x2="650.01" y2="242.83"/>
+<line class="st4" x1="644.85" y1="229.76" x2="628.04" y2="242.83"/>
+<line class="st4" x1="651.47" y1="243.82" x2="629.54" y2="402.59"/>
+<line class="st4" x1="628.04" y1="242.83" x2="649.71" y2="403.77"/>
+<line class="st4" x1="627.79" y1="329.36" x2="651.18" y2="329.65"/>
+<line class="st4" x1="608.67" y1="395.34" x2="628.04" y2="403.36"/>
+<line class="st4" x1="670.07" y1="395.22" x2="650.7" y2="403.23"/>
+<line class="st4" x1="616.27" y1="407.65" x2="627.49" y2="376.82"/>
+<line class="st4" x1="663.36" y1="407.32" x2="652.14" y2="376.49"/>
+<polygon class="st4" points="633.49,443.09 629.31,412.63 637.66,412.63 "/>
+<polygon class="st4" points="644.63,443.01 640.46,412.54 648.81,412.54 "/>
+<text transform="matrix(0.998 0 0 1 609.6726 172.438)" class="st5 st6">Misil</text>
+<text transform="matrix(0.998 0 0 1 510.5462 476.2685)" class="st5 st7">Quita 400 puntos a un jugador</text>
+<rect x="485.11" y="116.83" class="st3" width="311.81" height="433.7"/>
+</svg>
